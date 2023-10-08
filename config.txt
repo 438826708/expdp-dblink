@@ -1,0 +1,8 @@
+OLDIP=192.168.56.107
+NEWIP=192.168.56.109
+OLDSID=orcl
+NEWSID=orclbk
+OLDUSER=system
+OLDPASS=oracle1QAZ!
+TABLE=test.ttt,test.t1,test.t2
+#SCHEMAS=test
